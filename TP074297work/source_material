@@ -1,0 +1,4 @@
+paper: "https://www.nature.com/articles/s41598-025-02009-8"
+dataset: 'https://github.com/testmail9440/PhishDump"
+code: "https://tinyurl.com/phishjamcode"
+f1-score: 99.07
